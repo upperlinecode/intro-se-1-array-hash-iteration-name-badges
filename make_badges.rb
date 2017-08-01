@@ -29,5 +29,11 @@ require_relative 'company_data.rb'
 
 
 
-# 5. Finally, you'll need to create the list of how many mugs per name.
-#    You can run this any way you like, but at the end of the day, if you don't have 220 mugs total, you should probably recheck your logic.
+# 5. Alright, let's finish the job: create the list of how many mugs per name.
+
+
+
+
+
+
+# 6. Before you send it off to the printers, you should check your work. Make sure your final list has the same number of names as you found in #2, and orders the same number of mugs you found in number 1
