@@ -8,7 +8,7 @@
 
 You've just been hired at a new company called Badges. They're running an app and doing well, so there are over 200 employees with the company right now.
 
-The Christmas Party is coming up, and Jose, the CEO, wants to print personalized coffee mugs for each of his employees with their first names on them.
+The holiday party is coming up, and Jose, the CEO, wants to print personalized coffee mugs for each of his employees with their first names on them.
 
 He has an array with the first names of all the employees, but doesn't have time to do the organizing, so he's giving that task to you. Ultimately, he needs to know how many of each mug to order. For example, if there are three employees who are all named Sarah, then you'll need to order 3 mugs with the string "Sarah" printed on them.
 
